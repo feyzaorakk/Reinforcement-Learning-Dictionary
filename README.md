@@ -4,11 +4,13 @@
 
 | English | Türkçe |
 | --- | --- |
+| **A** | **a** |
 | Action Policy | Kontrol Politikası |
 | Action Space | Kontrol Uzayı |
 | Adversarially Motivated Intrinsic Goals | Ters Motive Edilmiş İçsel Hedefler |
 | Agent | Ajan |
 | Agent Dynamics | Ajan Dinamikleri |
+| **B** | **b** |
 | Bayesian Optimization | Bayes Optimizasyon |
 | Bellman Equation | Bellman Denklemi |
 | Border Defense Differential Game | Sınır Savunma Diferansiyel Oyun |
