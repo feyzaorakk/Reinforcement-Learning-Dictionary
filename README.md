@@ -1,5 +1,7 @@
-# Reinforcement Learning Dictionary For Turkish | Türkçe Pekiştirmeli Öğrenme Sözlüğü
-English-Turkish Dictionary for Reinforcement Learning Domain | Pekiştirmeli Öğrenme Alanı İçin İngilizce-Türkçe Sözlük
+# Reinforcement Learning Dictionary For Turkish
+# Türkçe Pekiştirmeli Öğrenme Sözlüğü
+English-Turkish Dictionary for Reinforcement Learning Domain
+Pekiştirmeli Öğrenme Alanı İçin İngilizce-Türkçe Sözlük
 
 ## Sorted List 
 
