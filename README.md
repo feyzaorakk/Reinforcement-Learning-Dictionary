@@ -58,6 +58,7 @@
 | **P** | **P** |
 | Prediction Horizon | Öngörü Ufku |
 | Predator-Prey Particle Swarm Optimization | Av-Avcı Particle Sürü Optimizasyonu |
+| Proximal Policy Optimization | Yakın Politika Optimizasyonu |
 | Pursuit-Evasion Game | Kaçan - Kovalayan Oyun |
 | **Q** | **Q** |
 | Q-Learning | Q-Öğrenme |
